@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javaDoc","c":"Calculadora","l":"Calculadora()","u":"%3Cinit%3E()"},{"p":"javaDoc","c":"Calculadora","l":"sumaNumero(double, double)","u":"sumaNumero(double,double)"}];updateSearchResults();
